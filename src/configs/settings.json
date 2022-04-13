@@ -1,0 +1,7 @@
+{
+  "mongoURL": "mongodb+srv://murat131:nSIhE1YhMSMuWTGg@cluster0.wfw6p.mongodb.net/murat131?retryWrites=true&w=majority",
+  "clientID": "961293675420344362",
+  "token": "OTYxMjkzNjc1NDIwMzQ0MzYy.Yk24gA.NwTsy_ZJiaEaDbarMm86Cnf3wZM",
+  "secret": "7VoUlWY_JtwhOmVixAg8MsahsLmmjvur",
+  "callbackURL": "http://localhost:3000/callback"
+}
